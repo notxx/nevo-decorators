@@ -1,0 +1,20 @@
+# Local configuration file (sdk path, etc)
+local.properties
+/src/debug
+/src/release
+
+# Android Studio
+.idea
+*.iml
+/gradle
+gradlew
+gradlew.bat
+gradle.properties
+.gradle
+build
+release
+/captures
+.externalNativeBuild
+
+# OSX files
+.DS_Store

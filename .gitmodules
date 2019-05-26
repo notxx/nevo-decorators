@@ -1,0 +1,3 @@
+[submodule "decorator-miui"]
+	path = decorator-miui
+	url = git@github.com:notxx/decorators-miui.git
